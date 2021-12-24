@@ -12,6 +12,6 @@ print("Added new function for addition")
 
 def multiply(a,b):
     d=a*b
-    return b
+    return d
 
 print("Added the multiply operaiton")
