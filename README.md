@@ -14,7 +14,7 @@ This project is mainly about practicing the Markdown
 
 >This data is obtained with single block quote
 
-Lists 
+Ordered Lists 
 
 1. Name1 
 2. Name2 
@@ -23,14 +23,30 @@ Lists
           import numpy as np 
           import pandas as pd 
           print("This is a data sceince program")
+          
+4. Use the `df.sum()` function to calculate the sum of all values in the column. Inline code snips
+
+Unordered Lists 
+
+* Name
+* Age 
+* City 
+
+
+- Name
+- Age 
+- City 
+
 
 [You can search on inline link Google.com](https://www.google.com "Google's Homepage")
 
 [ Hello to Fraud Detection](https://github.com/kannavar/fraud_detection/master/README.md)
 
+[Mark Down Syntax](https://daringfireball.net/projects/markdown/syntax)
+
 (https://github.com/kannavar/fraud_detection/master/README.md) Direct Link
 
-
+See my [About](/fraud_detection/) page for details.  
 
 
 
